@@ -1,3 +1,3 @@
 tasks:
   - name: Configuring CI Setup
-    init: bash .gitpod/setup.sh
+    init: python3 .gitpod/setup.py
