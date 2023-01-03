@@ -1,0 +1,3 @@
+tasks:
+  - name: Configuring CI Setup
+    init: bash .gitpod/setup.sh
